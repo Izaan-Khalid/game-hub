@@ -3,7 +3,6 @@ import useGames, { Platform } from "../hooks/useGames";
 import GameCard from "./GameCard";
 import GameCardSkeleton from "./GameCardSkeleton";
 import GameCardComponent from "./GameCardComponent";
-import { Genre } from "../hooks/useGenres";
 import { GameQuery } from "../App";
 
 interface GameGridProps {
